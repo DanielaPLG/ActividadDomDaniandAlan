@@ -19,7 +19,12 @@ function minimanual(prácticasdeestudio){
             'No subas las tareas a las 11.59 XD',
             'Si no te quedó muy claro un tema, busca tutoríales',
             'Si terminaste una actividad en clase, ayuda a los que no entienden',
-            'Siempre escala la milla extra'
+            'Siempre escala la milla extra',
+            'Organiza bien tu tiempo',
+            'No te estreses tan rápido, busca otras alternativas',
+            'No sobrecargues tu mente de tanta información, descansa un poco',
+            'Establece metas claras y concretas',
+            'Confía en ti mismo'
         ];
     
         items.forEach(consejo => {
